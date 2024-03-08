@@ -1,5 +1,5 @@
 {
-  "name": "mapbox-gl",
+  "name": "@mhfwork/mapsbox-gl",
   "version": "1.0.0",
   "description": "集成不同厂商的地图组件库（百度地图GL版，高德地图GL版，天地图等）",
   "main": "index.js",
