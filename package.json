@@ -1,0 +1,19 @@
+{
+  "name": "mapbox-gl",
+  "version": "1.0.0",
+  "description": "集成不同厂商的地图组件库（百度地图GL版，高德地图GL版，天地图等）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgrammerMao-001/mapbox-gl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgrammerMao-001/mapbox-gl/issues"
+  },
+  "homepage": "https://github.com/ProgrammerMao-001/mapbox-gl#readme"
+}
