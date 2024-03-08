@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProgrammerMao-001/mapbox-gl.git"
+    "url": "git+https://github.com/ProgrammerMao-001/mapsbox-gl.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ProgrammerMao-001/mapbox-gl/issues"
+    "url": "https://github.com/ProgrammerMao-001/mapsbox-gl/issues"
   },
-  "homepage": "https://github.com/ProgrammerMao-001/mapbox-gl#readme"
+  "homepage": "https://github.com/ProgrammerMao-001/mapsbox-gl#readme"
 }
